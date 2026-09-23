@@ -14,3 +14,6 @@ More Info Soon!
 ## Contributors
 
 - [@Adrofi](https://github.com/adroficontact-oss)
+
+### 📖 How to Suggest Generators
+Submit a commit with the name and the topic.
